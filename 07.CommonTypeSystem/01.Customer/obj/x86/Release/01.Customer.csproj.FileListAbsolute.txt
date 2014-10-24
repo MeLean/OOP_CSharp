@@ -1,0 +1,10 @@
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\07.CommonTypeSystem\01.Customer\bin\Release\01.Customer.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\07.CommonTypeSystem\01.Customer\bin\Release\01.Customer.pdb
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\07.CommonTypeSystem\01.Customer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\07.CommonTypeSystem\01.Customer\obj\x86\Release\01.Customer.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\07.CommonTypeSystem\01.Customer\obj\x86\Release\01.Customer.pdb
+G:\SotUni\OOP\07.CommonTypeSystem\01.Customer\obj\x86\Release\01.Customer.exe
+G:\SotUni\OOP\07.CommonTypeSystem\01.Customer\obj\x86\Release\01.Customer.pdb
+G:\SotUni\OOP\07.CommonTypeSystem\01.Customer\bin\Release\01.Customer.exe
+G:\SotUni\OOP\07.CommonTypeSystem\01.Customer\bin\Release\01.Customer.pdb
+G:\SotUni\OOP\07.CommonTypeSystem\01.Customer\obj\x86\Release\01.Customer.csprojResolveAssemblyReference.cache

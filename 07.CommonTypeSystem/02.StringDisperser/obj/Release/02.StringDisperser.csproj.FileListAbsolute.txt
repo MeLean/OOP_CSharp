@@ -1,0 +1,5 @@
+G:\SotUni\OOP\07.CommonTypeSystem\02.StringDisperser\obj\Release\02.StringDisperser.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\07.CommonTypeSystem\02.StringDisperser\bin\Release\02.StringDisperser.exe
+G:\SotUni\OOP\07.CommonTypeSystem\02.StringDisperser\bin\Release\02.StringDisperser.pdb
+G:\SotUni\OOP\07.CommonTypeSystem\02.StringDisperser\obj\Release\02.StringDisperser.exe
+G:\SotUni\OOP\07.CommonTypeSystem\02.StringDisperser\obj\Release\02.StringDisperser.pdb

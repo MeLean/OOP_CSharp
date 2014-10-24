@@ -1,0 +1,7 @@
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\02.BankKurtovoKonare\bin\Release\02.BankKurtovoKonare.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\02.BankKurtovoKonare\bin\Release\02.BankKurtovoKonare.pdb
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\02.BankKurtovoKonare\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\02.BankKurtovoKonare\obj\x86\Release\02.BankKurtovoKonare.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\02.BankKurtovoKonare\obj\x86\Release\02.BankKurtovoKonare.pdb
+G:\SotUni\OOP\06.EncapsulationPolymorphism\02.BankKurtovoKonare\obj\x86\Release\02.BankKurtovoKonare.exe
+G:\SotUni\OOP\06.EncapsulationPolymorphism\02.BankKurtovoKonare\obj\x86\Release\02.BankKurtovoKonare.pdb

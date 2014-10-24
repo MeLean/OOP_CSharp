@@ -1,0 +1,10 @@
+c:\users\milen\documents\visual studio 2013\Projects\04.DelegatesEvents\01.InterestCalculator\bin\Debug\01.InterestCalculator.exe
+c:\users\milen\documents\visual studio 2013\Projects\04.DelegatesEvents\01.InterestCalculator\bin\Debug\01.InterestCalculator.pdb
+c:\users\milen\documents\visual studio 2013\Projects\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.csprojResolveAssemblyReference.cache
+c:\users\milen\documents\visual studio 2013\Projects\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.exe
+c:\users\milen\documents\visual studio 2013\Projects\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.pdb
+G:\SotUni\OOP\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.exe
+G:\SotUni\OOP\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.pdb
+G:\SotUni\OOP\04.DelegatesEvents\01.InterestCalculator\bin\Debug\01.InterestCalculator.exe
+G:\SotUni\OOP\04.DelegatesEvents\01.InterestCalculator\bin\Debug\01.InterestCalculator.pdb
+G:\SotUni\OOP\04.DelegatesEvents\01.InterestCalculator\obj\Debug\01.InterestCalculator.csprojResolveAssemblyReference.cache

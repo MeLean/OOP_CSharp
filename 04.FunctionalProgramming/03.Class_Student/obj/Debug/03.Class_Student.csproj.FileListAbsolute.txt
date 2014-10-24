@@ -1,0 +1,5 @@
+G:\SotUni\OOP\04.FunctionalProgramming\03.Class_Student\bin\Debug\03.Class_Student.exe
+G:\SotUni\OOP\04.FunctionalProgramming\03.Class_Student\bin\Debug\03.Class_Student.pdb
+G:\SotUni\OOP\04.FunctionalProgramming\03.Class_Student\obj\Debug\03.Class_Student.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\04.FunctionalProgramming\03.Class_Student\obj\Debug\03.Class_Student.exe
+G:\SotUni\OOP\04.FunctionalProgramming\03.Class_Student\obj\Debug\03.Class_Student.pdb

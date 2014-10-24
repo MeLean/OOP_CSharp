@@ -1,0 +1,4 @@
+G:\SotUni\OOP\04.OtherData\01.PlanetGPS\bin\Release\01.PlanetGPS.exe
+G:\SotUni\OOP\04.OtherData\01.PlanetGPS\bin\Release\01.PlanetGPS.pdb
+G:\SotUni\OOP\04.OtherData\01.PlanetGPS\obj\Release\01.PlanetGPS.exe
+G:\SotUni\OOP\04.OtherData\01.PlanetGPS\obj\Release\01.PlanetGPS.pdb

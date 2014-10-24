@@ -1,0 +1,5 @@
+G:\SotUni\OOP\04.OtherData\02.FractionCalculator\obj\Release\02.FractionCalculator.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\04.OtherData\02.FractionCalculator\bin\Release\02.FractionCalculator.exe
+G:\SotUni\OOP\04.OtherData\02.FractionCalculator\bin\Release\02.FractionCalculator.pdb
+G:\SotUni\OOP\04.OtherData\02.FractionCalculator\obj\Release\02.FractionCalculator.exe
+G:\SotUni\OOP\04.OtherData\02.FractionCalculator\obj\Release\02.FractionCalculator.pdb

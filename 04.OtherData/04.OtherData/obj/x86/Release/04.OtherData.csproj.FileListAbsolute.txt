@@ -1,0 +1,10 @@
+C:\Documents and Settings\MDDimitrov\Local Settings\Application Data\Temporary Projects\04.OtherData\bin\Release\04.OtherData.exe
+C:\Documents and Settings\MDDimitrov\Local Settings\Application Data\Temporary Projects\04.OtherData\bin\Release\04.OtherData.pdb
+C:\Documents and Settings\MDDimitrov\Local Settings\Application Data\Temporary Projects\04.OtherData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MDDimitrov\Local Settings\Application Data\Temporary Projects\04.OtherData\obj\x86\Release\04.OtherData.exe
+C:\Documents and Settings\MDDimitrov\Local Settings\Application Data\Temporary Projects\04.OtherData\obj\x86\Release\04.OtherData.pdb
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\04.OtherData.exe
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\04.OtherData.pdb
+G:\SotUni\OOP\04.OtherData\04.OtherData\bin\Release\04.OtherData.exe
+G:\SotUni\OOP\04.OtherData\04.OtherData\bin\Release\04.OtherData.pdb
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\04.OtherData.csprojResolveAssemblyReference.cache

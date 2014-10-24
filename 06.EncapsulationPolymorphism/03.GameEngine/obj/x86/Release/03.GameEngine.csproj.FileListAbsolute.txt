@@ -1,0 +1,10 @@
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\03.GameEngine\bin\Release\03.GameEngine.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\03.GameEngine\bin\Release\03.GameEngine.pdb
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\03.GameEngine.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\03.GameEngine.pdb
+G:\SotUni\OOP\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\03.GameEngine.exe
+G:\SotUni\OOP\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\03.GameEngine.pdb
+G:\SotUni\OOP\06.EncapsulationPolymorphism\03.GameEngine\obj\x86\Release\03.GameEngine.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\06.EncapsulationPolymorphism\03.GameEngine\bin\Release\03.GameEngine.exe
+G:\SotUni\OOP\06.EncapsulationPolymorphism\03.GameEngine\bin\Release\03.GameEngine.pdb

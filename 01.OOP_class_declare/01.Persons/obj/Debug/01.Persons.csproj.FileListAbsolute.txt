@@ -1,0 +1,4 @@
+G:\SotUni\OOP\01.OOP_class_declare\01.Persons\bin\Debug\01.Persons.exe
+G:\SotUni\OOP\01.OOP_class_declare\01.Persons\bin\Debug\01.Persons.pdb
+G:\SotUni\OOP\01.OOP_class_declare\01.Persons\obj\Debug\01.Persons.exe
+G:\SotUni\OOP\01.OOP_class_declare\01.Persons\obj\Debug\01.Persons.pdb

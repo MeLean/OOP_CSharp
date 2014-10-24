@@ -1,0 +1,5 @@
+G:\SotUni\OOP\01.OOP_class_declare\03.PCCatalog\bin\Debug\03.PCCatalog.exe
+G:\SotUni\OOP\01.OOP_class_declare\03.PCCatalog\bin\Debug\03.PCCatalog.pdb
+G:\SotUni\OOP\01.OOP_class_declare\03.PCCatalog\obj\Debug\03.PCCatalog.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\01.OOP_class_declare\03.PCCatalog\obj\Debug\03.PCCatalog.exe
+G:\SotUni\OOP\01.OOP_class_declare\03.PCCatalog\obj\Debug\03.PCCatalog.pdb

@@ -1,0 +1,5 @@
+G:\SotUni\OOP\04.FunctionalProgramming\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\04.FunctionalProgramming\02.CustomLINQExtensionMethods\bin\Debug\02.CustomLINQExtensionMethods.exe
+G:\SotUni\OOP\04.FunctionalProgramming\02.CustomLINQExtensionMethods\bin\Debug\02.CustomLINQExtensionMethods.pdb
+G:\SotUni\OOP\04.FunctionalProgramming\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.exe
+G:\SotUni\OOP\04.FunctionalProgramming\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.pdb

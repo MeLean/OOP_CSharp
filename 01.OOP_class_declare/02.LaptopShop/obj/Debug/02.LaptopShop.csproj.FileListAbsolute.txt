@@ -1,0 +1,5 @@
+G:\SotUni\OOP\01.OOP_class_declare\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+G:\SotUni\OOP\01.OOP_class_declare\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+G:\SotUni\OOP\01.OOP_class_declare\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+G:\SotUni\OOP\01.OOP_class_declare\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+G:\SotUni\OOP\01.OOP_class_declare\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache

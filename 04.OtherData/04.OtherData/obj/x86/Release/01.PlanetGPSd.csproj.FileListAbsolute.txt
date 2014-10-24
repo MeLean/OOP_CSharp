@@ -1,0 +1,5 @@
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\01.PlanetGPSd.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\04.OtherData.exe
+G:\SotUni\OOP\04.OtherData\04.OtherData\bin\Release\04.OtherData.exe
+G:\SotUni\OOP\04.OtherData\04.OtherData\bin\Release\04.OtherData.pdb
+G:\SotUni\OOP\04.OtherData\04.OtherData\obj\x86\Release\04.OtherData.pdb

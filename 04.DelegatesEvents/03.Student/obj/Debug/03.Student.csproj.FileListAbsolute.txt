@@ -1,0 +1,5 @@
+G:\SotUni\OOP\04.DelegatesEvents\03.Student\obj\Debug\03.Student.csprojResolveAssemblyReference.cache
+G:\SotUni\OOP\04.DelegatesEvents\03.Student\bin\Debug\03.Student.exe
+G:\SotUni\OOP\04.DelegatesEvents\03.Student\bin\Debug\03.Student.pdb
+G:\SotUni\OOP\04.DelegatesEvents\03.Student\obj\Debug\03.Student.exe
+G:\SotUni\OOP\04.DelegatesEvents\03.Student\obj\Debug\03.Student.pdb

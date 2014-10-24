@@ -1,0 +1,7 @@
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\01.Shapes\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\01.Shapes\bin\Release\01.Shapes.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\01.Shapes\bin\Release\01.Shapes.pdb
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\01.Shapes\obj\x86\Release\01.Shapes.exe
+C:\Documents and Settings\MDDimitrov\My Documents\Visual Studio 2010\Projects\OOPHomework\06.EncapsulationPolymorphism\01.Shapes\obj\x86\Release\01.Shapes.pdb
+G:\SotUni\OOP\06.EncapsulationPolymorphism\01.Shapes\obj\x86\Release\01.Shapes.exe
+G:\SotUni\OOP\06.EncapsulationPolymorphism\01.Shapes\obj\x86\Release\01.Shapes.pdb

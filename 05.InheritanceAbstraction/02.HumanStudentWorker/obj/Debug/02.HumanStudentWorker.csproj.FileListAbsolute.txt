@@ -1,0 +1,4 @@
+G:\SotUni\OOP\05.InheritanceAbstraction\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.exe
+G:\SotUni\OOP\05.InheritanceAbstraction\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.pdb
+G:\SotUni\OOP\05.InheritanceAbstraction\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.exe
+G:\SotUni\OOP\05.InheritanceAbstraction\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.pdb

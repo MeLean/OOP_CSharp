@@ -1,0 +1,1 @@
+G:\SotUni\OOP\05.InheritanceAbstraction\05.InheritanceAbstraction\bin\Debug\05.InheritanceAbstraction.exe.config

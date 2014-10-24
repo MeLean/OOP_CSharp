@@ -1,0 +1,4 @@
+G:\SotUni\OOP\04.OtherData\03.GenericList\bin\Release\03.GenericList.exe
+G:\SotUni\OOP\04.OtherData\03.GenericList\bin\Release\03.GenericList.pdb
+G:\SotUni\OOP\04.OtherData\03.GenericList\obj\Release\03.GenericList.exe
+G:\SotUni\OOP\04.OtherData\03.GenericList\obj\Release\03.GenericList.pdb

@@ -1,0 +1,5 @@
+G:\SotUni\OOP\05.InheritanceAbstraction\04.Company Hierarchy\bin\Debug\04.Company Hierarchy.exe
+G:\SotUni\OOP\05.InheritanceAbstraction\04.Company Hierarchy\bin\Debug\04.Company Hierarchy.pdb
+G:\SotUni\OOP\05.InheritanceAbstraction\04.Company Hierarchy\obj\Debug\04.Company Hierarchy.exe
+G:\SotUni\OOP\05.InheritanceAbstraction\04.Company Hierarchy\obj\Debug\04.Company Hierarchy.pdb
+G:\SotUni\OOP\05.InheritanceAbstraction\04.Company Hierarchy\obj\Debug\04.CompanyHierarchy.csprojResolveAssemblyReference.cache
